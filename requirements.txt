@@ -1,0 +1,6 @@
+jupyter
+matplotlib
+numpy
+opencv
+glob2
+pywin32
