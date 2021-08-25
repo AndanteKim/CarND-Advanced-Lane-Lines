@@ -4,3 +4,4 @@ numpy
 opencv
 glob2
 pywin32
+moviepy
