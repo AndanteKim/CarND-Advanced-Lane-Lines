@@ -21,7 +21,7 @@ The goals / steps of this project are the following:
 [image3]: ./output_images/binary_images/test1.jpg "Binary Example"
 [image4]: ./examples/warped_curved_lines.png "Warp Example"
 [image5]: ./output_images/binary_images/Windows_Search/result/warp_test1.jpg "Fit Visual"
-[image6]: ./output_images/pipeline_final_result.jpg "Output"
+[image6]: ./output_images/pipeline_final_result/test1.jpg "Output"
 [video1]: ./project_video_output.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
